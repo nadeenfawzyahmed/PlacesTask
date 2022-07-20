@@ -1,0 +1,93 @@
+.cardview {
+    width: 100%;
+    background-color: rgba(225, 222, 222, 0.285)
+}
+
+.images {
+    height: 100px;
+}
+
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(67, 157, 157);
+
+}
+
+.footer {
+    background-color: rgb(67, 157, 157);
+    font-size: 8px;
+    margin-top: 15px;
+}
+
+.color {
+    color: rgb(67, 157, 157);
+
+}
+
+.left {
+    text-align: -webkit-left;
+}
+
+.info-right {
+    margin-top: -15px;
+    text-align: -webkit-right;
+    
+}
+
+.padding-left15 {
+    padding-left: 40px;
+}
+
+.medium-size {
+    font-size: 8px;
+}
+
+.small-size {
+    font-size: 7px;
+}
+
+.info {
+    margin-top: -15px;
+    text-align: -webkit-left;
+}
+.textalign{
+            text-align: -webkit-left;
+
+}
+
+
+.background {
+    background-color: rgb(67, 157, 157);
+    height: 141px;
+
+}
+.width{
+    width:90px;
+    height: 25px;
+    border-radius: 0px;
+
+}
+.textbtn{
+    font-size: 8px;
+    text-align: center;
+    color:rgb(67, 157, 157);
+}
+
+.inline {
+    inline-size: max-content;
+
+}
+.mailbox{
+    width:200px;
+    border-radius: 0;
+    height: 25px;
+    text-align: -webkit-left;
+    padding-right: -15  px;
+
+
+}
+
+.floatleft {
+    float: left;
+}
